@@ -3,13 +3,14 @@
     font-family: Verdana, "Dejavu Sans", sans-serif; 
 }
 
-#even2{
-    color:blue;
-    font-size: 36px;
-}
 
 .odd.cool{
     font-size: 24px;
+}
+
+#even2{
+    color:blue;
+    font-size: 36px;
 }
 
 #even4{
